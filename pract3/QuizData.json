@@ -1,0 +1,92 @@
+[
+    {
+        "id":"1",
+        "Qus":"React.js is a free and open-source front-end .................",
+        "A":"JavaScript library",
+        "B":"Bootstrap library",
+        "C":"CSS library",
+        "D":"None of the Above",
+        "Ans":"A"
+    },
+    {
+        "id":"2",
+        "Qus":"React.js had Written in ................",
+        "A":"JavaScript",
+        "B":"Python",
+        "C":"C / C++ ",
+        "D":"PHP",
+        "Ans":"A"
+    },
+    {
+        "id":"3",
+        "Qus":"Which of the following command is used to install create-react-app?",
+        "A":"npm install -g create-react-app",
+        "B":"npm install -f create-react-app",
+        "C":"install -g create-react-app",
+        "D":"npm install create-react-app",
+        "Ans":"A"
+    },
+    {
+        "id":"4",
+        "Qus":"What of the following is used in React.js to increase performance?",
+        "A":"Original DOM",
+        "B":"Virtual DOM",
+        "C":"Both A and B ",
+        "D":"None of the above.",
+        "Ans":"B"
+    },
+    {
+        "id":"5",
+        "Qus":"A class is a type of function, but instead of using the keyword function to initiate it, which keyword do we use?",
+        "A":"Constructor",
+        "B":"Class",
+        "C":"Object",
+        "D":"DataObject",
+        "Ans":"B"
+    },
+    {
+        "id":"6",
+        "Qus":"What is the default port where webpack-server runs?",
+        "A":"3000",
+        "B":"8080",
+        "C":"3030",
+        "D":"6060",
+        "Ans":"B"
+    },
+    {
+        "id":"7",
+        "Qus":"How many numbers of elements a valid react component can return?",
+        "A":"1",
+        "B":"2",
+        "C":"5",
+        "D":"3",
+        "Ans":"A"
+    },
+    {
+        "id":"8",
+        "Qus":"Arbitrary inputs of components in React are called",
+        "A":"Keys",
+        "B":"Props",
+        "C":"Elements",
+        "D":"Ref",
+        "Ans":"B"
+    },
+    {
+        "id":"9",
+        "Qus":"Everything in react is a ....................",
+        "A":" Class",
+        "B":"Package",
+        "C":"Component",
+        "D":"Module",
+        "Ans":"C"
+    },
+    {
+        "id":"10",
+        "Qus":"Which of the following option is used to access the state of a component from inside of a member function?",
+        "A":"this.state",
+        "B":"this.values",
+        "C":"this.getState()",
+        "D":"this.prototype.stateValue",
+        "Ans":"B"
+    }
+]
